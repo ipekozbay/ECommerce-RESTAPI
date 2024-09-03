@@ -1,0 +1,4 @@
+Aug 16 11:12:24 sysadmin express-api [370719]: 2024-08-16 11:12:24, INFO GET /api/users/ - PostmanRuntime/7.41.0
+Aug 16 11:12:56 sysadmin express-api [371464]: 2024-08-16 11:12:56, INFO GET /api/users/ - PostmanRuntime/7.41.0
+Aug 16 11:13:07 sysadmin express-api [371464]: 2024-08-16 11:13:07, INFO GET /api/users/address/zonguldak - PostmanRuntime/7.41.0
+Aug 16 11:14:55 sysadmin express-api [371464]: 2024-08-16 11:14:55, INFO POST /api/auth/login - PostmanRuntime/7.41.0
